@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="disegno.svg"
+   inkscape:version="1.3-dev (187f4ce90, 2023-01-07)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.72693603"
+     inkscape:cx="396.18342"
+     inkscape:cy="561.94766"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000;stroke-width:0.264583"
+       d="M 37.124999,232.94117 H 161.60294 L 100.81985,123.02206 Z"
+       id="path9" />
+    <rect
+       style="fill:#000000;stroke-width:0.264583"
+       id="rect9"
+       width="6.5514703"
+       height="80.4375"
+       x="63.330879"
+       y="162.33089" />
+    <rect
+       style="fill:#000000;stroke-width:0.264583"
+       id="rect9-2"
+       width="6.5514703"
+       height="80.4375"
+       x="130.30147"
+       y="163.96875" />
+    <path
+       style="fill:#aa0000;stroke-width:0.264583"
+       d="M 90.264704,156.50735 H 115.0147 l -14.92279,-25.11397 z"
+       id="path10" />
+    <circle
+       id="path11"
+       style="fill:#000000;stroke:#000000;stroke-width:0.264583"
+       cx="96.088234"
+       cy="144.13235"
+       r="0.048480526" />
+    <circle
+       id="path12"
+       style="fill:#000000;stroke:#000000;stroke-width:0.264583"
+       cx="100.81985"
+       cy="143.76839"
+       r="0.048480526" />
+    <path
+       style="fill:#000000;stroke-width:0.264583"
+       d="m 96.088233,147.77206 4.367647,-12.73897"
+       id="path13" />
+    <path
+       style="fill:#000000;stroke-width:0.264583"
+       d="m 106.27941,146.68015 -5.82353,-14.19485 -4.731618,13.83088"
+       id="path14" />
+    <path
+       style="fill:#000000;stroke-width:0.264583"
+       d="m 49.13603,228.9375 39.308822,-63.69485 30.209558,0.72794 30.57353,61.51102 z"
+       id="path22" />
+    <ellipse
+       style="fill:#000000;stroke-width:0.264583"
+       id="path15"
+       cx="66.606613"
+       cy="242.4044"
+       rx="3.6397059"
+       ry="2.1838236" />
+    <ellipse
+       style="fill:#000000;stroke-width:0.264583"
+       id="path16"
+       cx="133.57721"
+       cy="245.13419"
+       rx="3.6397059"
+       ry="2.365809" />
+    <path
+       style="fill:#808080;stroke-width:0.264583"
+       d="m 85.169117,161.60294 h 31.665443 l 37.48897,68.79044 -111.375001,-0.36397 z"
+       id="path18" />
+    <path
+       style="fill:#333333;stroke-width:0.214192"
+       d="m 67.93147,230.08216 0.494999,-47.00496 -5.444999,14.03133 -0.7425,34.37676 z"
+       id="path19" />
+    <path
+       style="fill:#1a1a1a;stroke-width:0.214192"
+       d="m 136.17596,229.53621 0.49499,-47.00496 -5.44499,14.03133 -0.7425,34.37676 z"
+       id="path19-8" />
+    <path
+       style="fill:#1a1a1a;stroke-width:0.264583"
+       d="m 53.139704,224.93382 c 34.941177,-58.59926 34.941177,-58.59926 34.941177,-58.59926 l 25.841909,0.72794 32.39338,58.59926 z"
+       id="path20" />
+    <rect
+       style="fill:#1a1a1a;stroke-width:0.264583"
+       id="rect20"
+       width="5.459559"
+       height="53.503674"
+       x="52.047794"
+       y="187.44485" />
+    <rect
+       style="fill:#1a1a1a;stroke-width:0.264583"
+       id="rect21"
+       width="6.5514703"
+       height="54.959557"
+       x="148.13603"
+       y="192.54044" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Livello 2">
+    <path
+       style="fill:#4d4d4d;stroke-width:0.264583"
+       d="M 116.83456,243.13235 154.6875,176.16176"
+       id="path17" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Livello 3"
+     style="fill:#000000" />
+</svg>

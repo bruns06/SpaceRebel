@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="disegno2.svg"
+   inkscape:version="1.3-dev (187f4ce90, 2023-01-07)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.72693603"
+     inkscape:cx="396.18342"
+     inkscape:cy="561.94766"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000;stroke-width:0.17484"
+       d="M 141.39264,116.67068 H 59.499265 l 39.98887,72.958 z"
+       id="path9" />
+    <rect
+       style="fill:#f9f9f9;stroke-width:0.17484"
+       id="rect9"
+       width="4.3101778"
+       height="53.389801"
+       x="-124.15192"
+       y="-163.53773"
+       transform="scale(-1)" />
+    <rect
+       style="fill:#ececec;stroke-width:0.17484"
+       id="rect9-2"
+       width="4.3101778"
+       height="53.389801"
+       x="-80.092331"
+       y="-162.45061"
+       transform="scale(-1)" />
+    <path
+       style="fill:#aa0000;stroke-width:0.17484"
+       d="M 106.43231,167.40307 H 90.149425 l 9.81762,16.66921 z"
+       id="path10" />
+    <ellipse
+       id="path11"
+       style="fill:#000000;stroke:#000000;stroke-width:0.17484"
+       cx="-102.60103"
+       cy="-175.61687"
+       rx="0.031895082"
+       ry="0.032178592"
+       transform="scale(-1)" />
+    <ellipse
+       id="path12"
+       style="fill:#000000;stroke:#000000;stroke-width:0.17484"
+       cx="-99.488129"
+       cy="-175.85846"
+       rx="0.031895082"
+       ry="0.032178592"
+       transform="scale(-1)" />
+    <path
+       style="fill:#000000;stroke-width:0.17484"
+       d="m 102.60104,173.20105 -2.873445,8.4554"
+       id="path13" />
+    <path
+       style="fill:#ffffff;stroke-width:0.17484"
+       d="m 95.896325,173.9258 3.83127,9.42173 3.112895,-9.18015"
+       id="path14" />
+    <path
+       style="fill:#000000;stroke-width:0.17484"
+       d="m 133.49065,119.32809 -25.86107,42.27699 -19.874705,-0.48317 -20.11416,-40.82749 z"
+       id="path22" />
+    <ellipse
+       style="fill:#000000;stroke-width:0.17484"
+       id="path15"
+       cx="-121.99685"
+       cy="-110.38953"
+       rx="2.3945434"
+       ry="1.4494969"
+       transform="scale(-1)" />
+    <ellipse
+       style="fill:#000000;stroke-width:0.17484"
+       id="path16"
+       cx="-77.937241"
+       cy="-108.57765"
+       rx="2.3945434"
+       ry="1.5702884"
+       transform="scale(-1)" />
+    <path
+       style="fill:#e6e6e6;stroke-width:0.17484"
+       d="M 109.78467,164.02091 H 88.952145 l -24.6638,-45.65915 73.273025,0.24158 z"
+       id="path18" />
+    <path
+       style="fill:#f9f9f9;stroke-width:0.141541"
+       d="m 121.12523,118.56833 -0.32566,31.19919 3.58223,-9.31319 0.48849,-22.81732 z"
+       id="path19" />
+    <path
+       style="fill:#ffffff;stroke-width:0.141541"
+       d="m 76.227535,118.9307 -0.32565,31.19919 3.58223,-9.31319 0.48849,-22.81732 z"
+       id="path19-8" />
+    <path
+       style="fill:#ffffff;stroke-width:0.17484"
+       d="m 130.85665,121.9855 c -22.98762,38.89483 -22.98762,38.89483 -22.98762,38.89483 l -17.001245,-0.48317 -21.31144,-38.89483 z"
+       id="path20" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Livello 2">
+    <path
+       style="fill:#4d4d4d;stroke-width:0.17484"
+       d="M 88.952145,109.90636 64.048895,154.3576"
+       id="path17" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Livello 3"
+     style="fill:#000000" />
+</svg>
