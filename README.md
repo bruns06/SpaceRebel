@@ -1,6 +1,6 @@
 # SpaceRebel - Python game built with pygame 
 
-Python shoot 'em up style built with pygame and [Game idea generator](https://letsmakeagame.net/game-idea-generator/), rules are:
+Python game built with pygame and [Game idea generator](https://letsmakeagame.net/game-idea-generator/), rules are:
  1. Has to be a shoot 'em up
  2. Theme must be space opera
  3. Theme must be 1 resource (as in one bullet that gets reloaded only if it hits something)
